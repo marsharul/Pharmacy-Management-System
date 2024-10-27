@@ -1,0 +1,26 @@
+.bgcolor{
+    
+   background-color: #c1a03f !important
+}
+.bgcolorbody{
+    background-color: #eae5d4 !important
+}
+.bgcolorfooter{
+    background-color: #c5c1b3 ! important
+}
+.font{
+    font-size: 25px !important ;
+    font-weight: 700 !important ;
+    color: #5d5957 !important ;
+    
+}
+
+.register-btn{
+    margin-right:-25px !important;
+}
+.loginbgcolor{
+    background-color: #cabd96 !important;
+}
+.arrowup{
+    background-color: rgba(0, 0, 0, .5) !important;
+}
