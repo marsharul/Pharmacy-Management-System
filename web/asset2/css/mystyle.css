@@ -1,0 +1,19 @@
+.text-color{
+/*    color: #9e7626 !important;*/
+    color: #62502b !important;
+}
+.bg-color{
+    background-color: #62502b !important;
+    
+}
+.topbar2 {
+    padding: 10px !important;
+    border-radius: 230px 100px !important;
+}
+.icons-bg{
+    color:#c1a03f !important;
+}
+.bordercolor{
+    border-color:#62502b !important;
+}
+
